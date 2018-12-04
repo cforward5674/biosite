@@ -24,14 +24,14 @@ h2 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-img {
+.game {
   padding: 10px;
   margin-top: 5px;
   margin-left: 10px;
  background-color: rgb(193, 191, 191);
 }
 
-.img-fluid-port {
+.game-fluid-port {
   margin-left: 200px;
   margin-top: 75px;
   padding: 10px;
